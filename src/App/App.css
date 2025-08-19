@@ -11,15 +11,17 @@
 }
 
 .search{
-  width: 320px;
+  width: 300px;
   height: 35px;
-  border: 3px solid orange;
+  border: 2.5px solid orange;
   padding: 5px;
-  margin: 40px auto 0px auto;
+  margin: 40px 0px;
   box-sizing: border-box;
 }
 
 .list{ 
+  margin: 0px;
+  padding: 0px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -33,7 +35,7 @@
   border: 1.5px solid white;
   border-radius: 20px;
   padding: 10px;
-  margin: 15px;
+  margin: 11px;
 }
 
 .title{
